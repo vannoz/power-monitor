@@ -24,8 +24,8 @@ Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_
 
 // Dati della rete WiFi
 #ifndef STASSID
-#define STASSID "linksys"
-#define STAPSK "Ktm222Smr%!"
+#define STASSID "your wifi name here"
+#define STAPSK "your password here"
 #endif
 const char* ssid = STASSID;
 const char* password = STAPSK;
