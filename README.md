@@ -1,4 +1,4 @@
-# power-monitor
+# SOLAR PANEL power-monitor
 solar panel and grid power monitor made with ESP32 Arduino WIFI 2.8 "240*320 TFT LCD Display Touch ESP-WROOM-32
 this project is a development of original project made by MAURIZIO GIUNTINI 
 https://mauriziogiunti.it/un-power-monitor-per-l-impianto-fotovoltaico-con-arduino
